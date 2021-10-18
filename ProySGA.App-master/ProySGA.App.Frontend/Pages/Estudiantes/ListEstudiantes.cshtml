@@ -1,0 +1,52 @@
+﻿@page
+@model ProySGA.App.Frontend.ListEstudiantesModel
+@{
+    var searchString =Model.searchString;
+}
+
+<h1>Listado de Estudiantes</h1>
+<p>
+    @Html.ActionLink("Limpiar", "./ListEstudiantes")
+</p>
+
+@using(Html.BeginForm()) 
+{
+    <p>
+        Buscar por Nombres: @Html.TextBox("SearchString")
+        <input type="submit" value="Buscar"/>
+    </p>    
+}
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+          <th>Id</th> 
+          <th>Nombres</th> 
+          <th>Apellidos</th> 
+          <th>Dirección</th> 
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var estudiante in Model.estudiantes)
+        {
+           <tr>
+               <td>@estudiante.id</td> 
+               <td>@estudiante.nombres</td> 
+               <td>@estudiante.apellidos</td> 
+               <td>@estudiante.direccion</td> 
+               <td>
+                    <a class="btn btn-primary table-btn" asp-page="./DetailsEstudiantes" asp-route-estudianteId="@estudiante.id">
+                        <i class="fas fa-info-circle fa-sm"></i>Detalles
+                    </a>
+                    <a class="btn btn-primary table-btn" asp-page="./EditEstudiantes" asp-route-estudianteId="@estudiante.id">
+                        <i class="fas fa-address-book fa-sm" aria-hidden="true"></i>Editar
+                    </a>
+                    <a class="btn btn-danger table-btn" asp-page="./DeleteEstudiantes" asp-route-estudianteId="@estudiante.id">
+                        Eliminar
+                    </a>
+               </td>
+           </tr> 
+        }
+    </tbody>
+</table>
+<a asp-page="./EditEstudiantes" class="btn btn-primary">Nuevo Estudiante</a>

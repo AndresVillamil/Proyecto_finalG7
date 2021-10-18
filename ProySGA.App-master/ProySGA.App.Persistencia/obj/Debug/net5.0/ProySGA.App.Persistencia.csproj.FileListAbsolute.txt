@@ -1,0 +1,54 @@
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.deps.json
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.runtimeconfig.json
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.runtimeconfig.dev.json
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ref\ProySGA.App.Persistencia.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Dominio.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Dominio.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.csproj.AssemblyReference.cache
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.AssemblyInfoInputs.cache
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.AssemblyInfo.cs
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.csproj.CopyComplete
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ref\ProySGA.App.Persistencia.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.genruntimeconfig.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.deps.json
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.runtimeconfig.json
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.runtimeconfig.dev.json
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ref\ProySGA.App.Persistencia.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Dominio.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Dominio.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.csproj.AssemblyReference.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.AssemblyInfoInputs.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.AssemblyInfo.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.csproj.CoreCompileInputs.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.csproj.CopyComplete
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ref\ProySGA.App.Persistencia.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.genruntimeconfig.cache
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.deps.json
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.runtimeconfig.json
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.runtimeconfig.dev.json
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.dll
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ref\ProySGA.App.Persistencia.dll
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Persistencia.pdb
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Dominio.dll
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\bin\Debug\net5.0\ProySGA.App.Dominio.pdb
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.csproj.AssemblyReference.cache
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.AssemblyInfoInputs.cache
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.AssemblyInfo.cs
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.csproj.CopyComplete
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.dll
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ref\ProySGA.App.Persistencia.dll
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.pdb
+C:\Compartido\ProySGA.App\ProySGA.App.Persistencia\obj\Debug\net5.0\ProySGA.App.Persistencia.genruntimeconfig.cache

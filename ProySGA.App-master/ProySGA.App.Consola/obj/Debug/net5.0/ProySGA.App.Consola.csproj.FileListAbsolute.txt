@@ -1,0 +1,136 @@
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Consola.exe
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Consola.deps.json
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Consola.runtimeconfig.json
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Consola.runtimeconfig.dev.json
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Consola.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ref\ProySGA.App.Consola.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Consola.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Humanizer.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Dominio.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Persistencia.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Dominio.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Persistencia.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.csproj.AssemblyReference.cache
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.AssemblyInfoInputs.cache
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.AssemblyInfo.cs
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.csproj.CoreCompileInputs.cache
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.csproj.CopyComplete
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ref\ProySGA.App.Consola.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.genruntimeconfig.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Consola.exe
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Consola.deps.json
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Consola.runtimeconfig.json
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Consola.runtimeconfig.dev.json
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Consola.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ref\ProySGA.App.Consola.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Consola.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Humanizer.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.Drawing.Common.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.Security.Permissions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\System.Windows.Extensions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Dominio.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Persistencia.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Dominio.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\bin\Debug\net5.0\ProySGA.App.Persistencia.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.csproj.AssemblyReference.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.AssemblyInfoInputs.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.AssemblyInfo.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.csproj.CoreCompileInputs.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.csproj.CopyComplete
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ref\ProySGA.App.Consola.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Consola\obj\Debug\net5.0\ProySGA.App.Consola.genruntimeconfig.cache

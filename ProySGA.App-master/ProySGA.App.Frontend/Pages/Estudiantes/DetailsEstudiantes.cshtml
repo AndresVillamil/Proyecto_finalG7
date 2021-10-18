@@ -1,0 +1,87 @@
+﻿@page
+@model ProySGA.App.Frontend.Pages.DetailsEstudiantesModel
+@{
+}
+
+<!--<h2>Datos detallados del Estudiante @Model.Estudiante.nombres</h2>
+<div>
+    Id: @Model.Estudiante.id
+</div>
+<div>
+    Nombres: @Model.Estudiante.nombres
+</div>
+<div>
+    Apellidos: @Model.Estudiante.apellidos
+</div>
+<div>
+    Identificación: @Model.Estudiante.identificacion
+</div>
+<div>
+    Fecha de Nacimiento: @Model.Estudiante.nacimiento
+</div>
+<div>
+    Telefono: @Model.Estudiante.telefono
+</div>
+<div>
+    E-Mail: @Model.Estudiante.mail
+</div>
+<div>
+    Direccion: @Model.Estudiante.direccion
+</div> -->
+
+<section>
+    <h2>Información del Estudiante:  @Model.Estudiante.id</h2>
+    <fieldset>
+     <hr>       
+        <form  class="row justify-cont-center">
+          <div class="container px-4">
+            <div class="row gx-5"> 
+              <div class="col">
+                  <label asp-for="Estudiante.nombres">Nombres:</label>
+                  <input asp-for="Estudiante.nombres" class="form-control" disabled>
+              </div>  
+              <div class="col">
+                  <label for="Apellidos">Apellidos:</label><br>
+                  <input asp-for="Estudiante.apellidos" class="form-control" disabled>
+              </div>
+              <div class="col">
+                  <label for="Identificacion">No. Identificacion:</label><br>
+                  <input asp-for="Estudiante.identificacion" class="form-control" disabled>
+              </div> 
+            </div>  
+          </div>
+        </form><br>
+
+        <form class="row justify-cont-center">
+          <div class="container px-4">
+            <div class="row gx-5">
+              <div class="col">
+                <label for="Telefono">Fecha de Nacimiento:</label><br>
+                <input asp-for="Estudiante.nacimiento" class="form-control" disabled>
+              </div>
+              <div class="col">
+                <label for="Correo">Teléfono:</label><br>
+                <input asp-for="Estudiante.telefono" class="form-control" disabled>
+              </div>
+              <div class="col">
+                <label for="Direccion">E-Mail:</label><br>
+                <input asp-for="Estudiante.mail" class="form-control" disabled>
+              </div>
+            </div>
+          </div>
+        </form><br>
+        <form  class="row justify-cont-center">
+          <div class="container px-4">
+            <div class="row gx-5"> 
+              <div class="col">
+                  <label asp-for="Estudiante.nombres">Dirección:</label>
+                  <input asp-for="Estudiante.direccion" class="form-control" disabled>
+              </div>   
+            </div>  
+          </div>
+        </form><br>
+      </fieldset>  
+</section>
+
+
+<a asp-page="./ListEstudiantes" class="btn-default">Volver a la Lista de Estudiantes</a>

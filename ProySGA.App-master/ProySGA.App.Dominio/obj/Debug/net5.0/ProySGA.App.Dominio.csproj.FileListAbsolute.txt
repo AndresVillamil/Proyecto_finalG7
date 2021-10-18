@@ -1,0 +1,36 @@
+C:\Prueba1\ProySGA.App\ProySGA.App.Dominio\bin\Debug\net5.0\ProySGA.App.Dominio.deps.json
+C:\Prueba1\ProySGA.App\ProySGA.App.Dominio\bin\Debug\net5.0\ProySGA.App.Dominio.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Dominio\bin\Debug\net5.0\ref\ProySGA.App.Dominio.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Dominio\bin\Debug\net5.0\ProySGA.App.Dominio.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba1\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.AssemblyInfoInputs.cache
+C:\Prueba1\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.AssemblyInfo.cs
+C:\Prueba1\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Prueba1\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ref\ProySGA.App.Dominio.dll
+C:\Prueba1\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.pdb
+C:\Prueba1\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Dominio\bin\Debug\net5.0\ProySGA.App.Dominio.deps.json
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Dominio\bin\Debug\net5.0\ProySGA.App.Dominio.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Dominio\bin\Debug\net5.0\ref\ProySGA.App.Dominio.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Dominio\bin\Debug\net5.0\ProySGA.App.Dominio.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.AssemblyInfoInputs.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.AssemblyInfo.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ref\ProySGA.App.Dominio.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.pdb
+C:\Compartido\ProySGA.App\ProySGA.App.Dominio\bin\Debug\net5.0\ProySGA.App.Dominio.deps.json
+C:\Compartido\ProySGA.App\ProySGA.App.Dominio\bin\Debug\net5.0\ProySGA.App.Dominio.dll
+C:\Compartido\ProySGA.App\ProySGA.App.Dominio\bin\Debug\net5.0\ref\ProySGA.App.Dominio.dll
+C:\Compartido\ProySGA.App\ProySGA.App.Dominio\bin\Debug\net5.0\ProySGA.App.Dominio.pdb
+C:\Compartido\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.csproj.AssemblyReference.cache
+C:\Compartido\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Compartido\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.AssemblyInfoInputs.cache
+C:\Compartido\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.AssemblyInfo.cs
+C:\Compartido\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Compartido\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.dll
+C:\Compartido\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ref\ProySGA.App.Dominio.dll
+C:\Compartido\ProySGA.App\ProySGA.App.Dominio\obj\Debug\net5.0\ProySGA.App.Dominio.pdb

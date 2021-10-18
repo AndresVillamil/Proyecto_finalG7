@@ -1,0 +1,45 @@
+﻿@page
+@model ProySGA.App.Frontend.Pages.EditEstudiantesModel
+@{
+}
+<h2>Edición del Estudiante: @Model.Estudiante.id</h2>
+<hr> 
+<form method="post" class="row g-3">
+    <input type="hidden" asp-for="Estudiante.id"/>
+
+    <div class="col-md-6">
+        <label asp-for="Estudiante.nombres">Nombres:</label>
+        <input asp-for="Estudiante.nombres" class="form-control">
+    </div>
+    <div class="col-md-6">
+        <label asp-for="Estudiante.apellidos">Apellidos:</label>
+        <input asp-for="Estudiante.apellidos" class="form-control">
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Estudiante.identificacion">No.Identificación:</label>
+        <input asp-for="Estudiante.identificacion" class="form-control">
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Estudiante.nacimiento">Fecha de Nacimiento:</label>
+        <input placeholder="aaaa-mm-dd" asp-for="Estudiante.nacimiento" class="form-control">
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Estudiante.telefono">Teléfono:</label>
+        <input asp-for="Estudiante.telefono" class="form-control">
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Estudiante.mail">E-Mail</label>
+        <input type="email" placeholder="name@example.com" asp-for="Estudiante.mail" class="form-control">
+    </div>
+    <div class="col-md-6">
+        <label asp-for="Estudiante.direccion">Dirección:</label>
+        <input asp-for="Estudiante.direccion" class="form-control"><br>
+    </div> 
+    
+    <div class="col-md-6">
+    <button type="submit" class="btn btn-success">Guardar</button><br>
+    </div> 
+</form>
+
+
+<a asp-page="./ListEstudiantes" class="btn-default">Volver a la Lista de Estudiantes</a>

@@ -1,0 +1,51 @@
+﻿@page
+@model ProySGA.App.Frontend.DeleteEstudiantesModel
+@{
+    int estudianteId = Model.estudiante.id;
+}
+
+<figure class="figure">
+  <img src="/img/logo5.png" class="figure-img img-fluid rounded" alt="imagen 1">
+  <figcaption class="figure-caption">--</figcaption>
+</figure>
+
+<h2>Eliminación Registro del Estudiante: @Model.estudiante.nombres</h2>
+<hr>
+<form method="post" class="row g-3">
+    <input type="hidden" asp-for="estudiante.id"/>
+    <div class="col-md-6">
+        <label asp-for="estudiante.nombres">Nombres:</label>
+        <input asp-for="estudiante.nombres" class="form-control" disabled>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="estudiante.apellidos">Apellidos:</label>
+        <input asp-for="estudiante.apellidos" class="form-control" disabled>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="estudiante.identificacion">No.Identificación:</label>
+        <input asp-for="estudiante.identificacion" class="form-control" disabled>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="estudiante.nacimiento">Fecha de Nacimiento:</label>
+        <input asp-for="estudiante.nacimiento" class="form-control" disabled>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="estudiante.telefono">Teléfono:</label>
+        <input asp-for="estudiante.telefono" class="form-control" disabled>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="estudiante.mail">E-Mail</label>
+        <input asp-for="estudiante.mail" class="form-control" disabled>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="estudiante.direccion">Dirección:</label>
+        <input asp-for="estudiante.direccion" class="form-control" disabled><br>
+    </div> 
+    <div class="col-md-6">
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    </div>
+</form>
+
+
+<a asp-page="./ListEstudiantes" class="btn-default">Volver a la Lista de Estudiantes</a>
+
